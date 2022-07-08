@@ -48,3 +48,4 @@ function adjacent_prod(M=M, res=0)  # diagonal products - works by splitting mat
 end
 
 @btime adjacent_prod  # 0.001 ns
+
